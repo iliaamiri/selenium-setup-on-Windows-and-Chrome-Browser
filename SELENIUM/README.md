@@ -1,3 +1,5 @@
+<h1> README </h1>
+
 - for starting the server you must run START.bat as administrator 
 - geckodriver.exe is firefox driver
 - the server's socket is set on 4444
